@@ -1,0 +1,35 @@
+1.	git init
+2.	git config user.name			
+3.	git config user.email						
+4.	git add filename			
+•	git add .							
+•	git add *.txt or extention					
+•	git add --all
+•	git add -a							
+5.	git commit -m “message”					
+6.	git commit -am “message”					
+7.	git commit f-name -m”message”			
+8.	git remote add origin url			
+9.	git push origin master/branch				
+10.	git status							
+11.	git log							
+•	git log --oneline
+•	git log -number
+•	git log -filename
+•	git reflog
+12.	history							
+13.	git branch						
+•	git branch –list							
+14.	git branch b-name				
+15.	git checkout b-name			
+•	git switch b-name			
+16.	git checkout -b b-name					
+17.	git rm --cached  filename					
+18.	git clone url							
+19.	git merge b-name						
+20.	git rebase b-name						
+21.	git cherry-pick commitid			
+22.	git remote -v
+23.	git diff branch1 branch2
+24.	git fetch url 					
+25.	git push url(fetch + merge)				 

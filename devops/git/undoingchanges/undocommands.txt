@@ -1,0 +1,15 @@
+1.git branch -d b-name					
+2git branch -D b-name				
+3.git push origin -d b-name			
+4.git remote rm origin						
+5.git config --edit	   			
+6.git checkout .					
+7.git checkout filename 					
+8.git reset filename					
+9.git reset --soft
+10.git reset --hard (commit id or head)
+11.git diff branch1 branch2
+12.git fetch url 					
+13.git push url(fetch + merge)	
+14.git merge --forced
+

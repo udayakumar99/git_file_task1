@@ -1,0 +1,27 @@
+1.mkdir (file name)
+2.cd
+3.cd ..
+4.Touch (file name)
+5.touch file name {1..5}.txt
+6.ls
+7.vi (file name)
+8.i
+9.:wq 
+10.Nano (file-name)			
+11.cat (file name)
+12.rmdir
+13.rm (filename)
+14.ls -l
+15.ls -a
+16.pwd
+17.rmdir (filename)
+18.clear
+19.history
+20.sudo su
+21.echo
+22.man command
+23.whoami
+24.rm -r (filename)
+25.mkdir -p
+
+
